@@ -21,8 +21,9 @@ const Portfolio = () => {
 
   const skills = {
     "Frontend": ["HTML","CSS","JavaScript","Bootstrap","React","Next.js","Tailwind CSS"],
-    "Backend": ["Crew AI", "Python", "PostgreSQL", "Django"],
+    "Backend": ["Crew AI", "Python", "PostgreSQL", "Django", "PraisonAI"],
     "DevOps": ["Docker"],
+    "No Code Automation": ["n8n"],
     "Tools": ["Git", "VS Code", "Github", "Postman"]
   };
 
@@ -356,3 +357,5 @@ const Portfolio = () => {
 };
 
 export default Portfolio;
+
+
